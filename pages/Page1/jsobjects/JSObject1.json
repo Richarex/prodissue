@@ -1,0 +1,21 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n    roles: [\n      {\n        label: 'Admin',\n        value: 'ADMIN'\n      },\n      {\n        label: 'Developer',\n        value: 'DEV'\n      },\n      {\n        label: 'Viewer',\n        value: 'VIEWER'\n      }\n    ]\n}",
+    "variables": [
+      {
+        "name": "roles",
+        "value": "[{\n  label: 'Admin',\n  value: 'ADMIN'\n}, {\n  label: 'Developer',\n  value: 'DEV'\n}, {\n  label: 'Viewer',\n  value: 'VIEWER'\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_JSObject1",
+  "deleted": false,
+  "gitSyncId": "635a73d86278c10e2bf9b246_635a73ec6278c10e2bf9b24f"
+}
